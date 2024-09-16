@@ -1,4 +1,4 @@
-[img](https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif)
+![img](https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif)
 <!--![img](https://images.prismic.io/loco-blogs/ZjhW4EMTzAJOCjAJ_1_yw0TnheAGN-LPneDaTlaxw.gif?auto=format,compress)-->
 <h1 align="center">Hi 👋, I'm Khangurai From Myanmar</h1>
 <h3 align="center">A passionate full stack developer</h3>
