@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **odoo**
 
-- 👨‍💻 All of my projects are available at [https://aungkaungkhantdev.xyz/](https://aungkaungkhantdev.xyz/)
+- 👨‍💻 All of my projects are available at [https://aungkaungkhant-dev.vercel.app/](https://aungkaungkhant-dev.vercel.app/)
 
 - 📫 How to reach me **glorykai7@gmail.com**
 
